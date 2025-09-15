@@ -1,0 +1,5 @@
+    # print(lst) 
+    # t = (1,)
+    # t =(1,3)
+    # array.append(t)
+    # print(array)
